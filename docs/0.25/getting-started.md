@@ -31,6 +31,7 @@ _译注：_ Windows用户可以参考[这个帖子](http://bbs.reactnative.cn/to
     $ npm install -g react-native-cli
     $ react-native init AwesomeProject
 ```
+注:npm install -g react-native-cli 会出现权限问题,在前面添加sudo即可;
 译注：由于众所周知的网络原因，react-native命令行从npm官方源拖代码时会遇上麻烦。请将npm仓库源替换为国内镜像：  
 
 ```bash
